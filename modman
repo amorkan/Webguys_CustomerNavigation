@@ -1,4 +1,4 @@
 app/code/community/Webguys/CustomerNavigation app/code/community/Webguys/CustomerNavigation
-etc/modules/* etc/modules/
+app/etc/modules/* app/etc/modules/
 locale/de_DE/* app/locale/de_DE/
 locale/en_US/* app/locale/en_US/
