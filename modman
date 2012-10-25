@@ -1,4 +1,4 @@
 app/code/community/Webguys/CustomerNavigation app/code/community/Webguys/CustomerNavigation
 app/etc/modules/Webguys_CustomerNavigation.xml app/etc/modules/
-locale/de_DE/Webguys_CustomerNavigation.csv app/locale/de_DE/Webguys_CustomerNavigation.csv
-locale/en_US/Webguys_CustomerNavigation.csv app/locale/en_US/Webguys_CustomerNavigation.csv
+app/locale/de_DE/Webguys_CustomerNavigation.csv app/locale/de_DE/Webguys_CustomerNavigation.csv
+app/locale/en_US/Webguys_CustomerNavigation.csv app/locale/en_US/Webguys_CustomerNavigation.csv
