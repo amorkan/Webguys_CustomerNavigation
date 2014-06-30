@@ -1,0 +1,21 @@
+{
+    "description": "Customer Navigation (extension by Webguys)",
+    "extra": {
+        "map": [
+            [
+                "app/etc/modules/Webguys_CustomerNavigation.xml",
+                "app/etc/modules/Webguys_CustomerNavigation.xml"
+            ],
+            [
+                "app/code/community/Webguys/CustomerNavigation/",
+                "app/code/community/Webguys/CustomerNavigation/"
+            ]			
+        ]
+    },
+    "name": "webguys/customer_navigation",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "type": "magento-module",
+    "version": "dev-master"
+}
